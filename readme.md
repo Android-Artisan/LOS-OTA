@@ -8,7 +8,6 @@ This guide explains how to set up **OTA (Over-the-Air) updates** for an **unoffi
 
 - ✅ Uses **GitHub Releases** to host ROM builds  
 - ✅ No need for an external OTA server  
-- ✅ Automatically updates \`ota.json\` when a new ROM is uploaded  
 - ✅ Fully compatible with **LineageOS built-in Updater**  
 
 ---
@@ -19,7 +18,7 @@ To allow your ROM to check for OTA updates, modify the **\`build.prop\`** file i
 
 1. Go to:  
    \`\`\`
-   vendor/your_device/build.prop
+   vendor/build.prop or system/build.prop
    \`\`\`
 
 2. Add or modify this line:
