@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1733947423",
-      "filename": "lineage-20.0-20241211-UNOFFICIAL-zeroltexx.zip",
-      "id": "dfc78aa2f5d11d8f19cf391355c91d4e47fdde0eba78e01f07f30bca85958e4e",
+      "datetime": "1737984452",
+      "filename": "lineage_y2s-ota.zip",
+      "id": "EFCB0A09592E3131EB94AF4A0599E7C042247704AF3F94B5756C7F30917C26CF",
       "romtype": "UNOFFICIAL",
-      "size": "733960692",
-      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A13-11122024/lineage-20.0-20241211-UNOFFICIAL-zeroltexx.zip",
-      "version": "20.0"
+      "size": "1027162204",
+      "url": "https://github.com/gabrl12345678900/LOS_21_for_s20_series/releases/download/21-Feb-2025/lineage_y2s-ota.zip",
+      "version": "21.0"
     }
   ]
 }
